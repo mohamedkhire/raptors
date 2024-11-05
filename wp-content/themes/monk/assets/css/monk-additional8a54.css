@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'star';
+    src: url('../fonts/star.eot');
+    src: url('../fonts/stard41d.eot?#iefix') format('embedded-opentype'), url('../fonts/star.woff') format('woff'), url('../fonts/star.ttf') format('truetype'), url('../fonts/star.html#star') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WooCommerce';
+    src: url('../fonts/WooCommerce.eot');
+    src: url('../fonts/WooCommerced41d.eot?#iefix') format('embedded-opentype'), url('../fonts/WooCommerce.woff') format('woff'), url('../fonts/WooCommerce.ttf') format('truetype'), url('../fonts/WooCommerce.html#WooCommerce') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+ol.flex-control-nav.flex-control-thumbs {
+    max-width: 95px;
+}
